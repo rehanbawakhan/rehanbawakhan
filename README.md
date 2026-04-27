@@ -80,7 +80,7 @@ A Java multiplayer racing game project focused on game logic and networking.
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rehan-bawakhan-249149306/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAQdHpWD%2BSeqWA9QIC1YjvA%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rehan-bawakhan-249149306)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rehanbawakhan)
 
 ---

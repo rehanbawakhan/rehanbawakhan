@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F2C,50:1E41FF,100:E10600&height=230&section=header&text=Rehan%20Bawakhan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20%E2%80%A2%20Security%20%E2%80%A2%20Android%20%E2%80%A2%20AI&descAlignY=58&descSize=18" width="100%" alt="Rehan Bawakhan" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=E10600&center=true&vCenter=true&width=700&lines=CSE+%40+PES+University;Vice+Coding+Head+%40+Team+Vegavath;Ex+Cyber+Security+Intern+%E2%80%94+640+hours;Building+AI-integrated+Android+tools;Lights+out+and+away+we+go." alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=E10600&center=true&vCenter=true&width=700&lines=CSE+%40+PES+University;Ex+Cyber+Security+Intern+%E2%80%94+640+hours;Building+AI-integrated+Android+tools;Lights+out+and+away+we+go." alt="Typing intro" />
 
 <br/>
 

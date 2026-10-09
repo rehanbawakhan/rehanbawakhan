@@ -18,7 +18,6 @@
 name:      Rehan Bawakhan
 based_in:  Bengaluru, India
 studying:  BTech CSE @ PES University (2025 - 2028)
-role:      Vice Coding Head @ Team Vegavath PESU
 focus:     [Systems-level computing, Cybersecurity, Android, AI-integrated tools]
 previous:  Cyber Security Intern @ Athreya Technologies (640 hrs, built an IDS)
 off_track: Formula 1 | Red Bull Racing
